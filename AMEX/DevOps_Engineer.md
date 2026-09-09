@@ -3,7 +3,7 @@
 **YOE---> 3 yrs**
 
 - whats the difference between docker and kubernetes
-  ans for this 
+ans for this 
 - how to reduce the downtime with deployments
 - what agents you have deployed
 - suppose there are 100 applications how do you log analysis
